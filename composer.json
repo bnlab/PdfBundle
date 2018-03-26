@@ -23,5 +23,6 @@
     "autoload": {
         "psr-0": { "Ps\\PdfBundle": "" }
     },
-    "target-dir": "Ps/PdfBundle"
+    "target-dir": "Ps/PdfBundle",
+    "minimum-stability": "dev"
 }
