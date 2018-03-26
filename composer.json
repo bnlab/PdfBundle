@@ -1,5 +1,5 @@
 {
-    "name": "psliwa/pdf-bundle",
+    "name": "bnlab/pdf-bundle",
     "description": "This bundle integrates Symfony2 with PHPPdf library.",
     "keywords": ["PDF", "PHPPdf"],
     "type": "symfony-bundle",
